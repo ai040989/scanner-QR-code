@@ -11,4 +11,4 @@ app.listen(port, () => {
   console.log(`Le serveur écoute sur le port ${port}`);
 });
 
-app.use('/node_modules', express.static('node_modules'));
+
